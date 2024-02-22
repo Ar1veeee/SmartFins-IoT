@@ -1,7 +1,7 @@
-Nama : Alief Arifin Mahardiko
-Kelompok Sinus Ryzen
-Anggota : Rizky Budiarto, Alief Arifin Mahardiko, Arda Prayogo
-Library :
+# Nama : Alief Arifin Mahardiko
+# Kelompok Sinus Ryzen
+# Anggota : Rizky Budiarto, Alief Arifin Mahardiko, Arda Prayogo
+# Library :
 - <Arduino.h>
 - <ESP8266WiFi.h>
 - <WiFiClient.h>
